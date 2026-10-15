@@ -1,0 +1,6 @@
+{
+  "name": "StudioHeadshot AI - Portraits Professionnels",
+  "description": "Générateur de portraits professionnels IA haute résolution à partir de 3 à 5 selfies décontractés. 20 styles exclusifs (LinkedIn, Fondateur, Créatif, Extérieur, Noir & Blanc), filtres d'expression et téléchargement ZIP.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
